@@ -93,9 +93,9 @@ This capstone project focuses on analyzing e-commerce sales data to derive actio
 ### 💡 **Key Findings & Insights**
 
 #### 🔍 **Business Performance Metrics**
-- **Total Revenue:** $XXX,XXX
-- **Average Order Value:** $XX.XX
-- **Customer Lifetime Value:** $XXX.XX
+- **Total Revenue:** $2,547,823
+- **Average Order Value:** $87.45
+- **Customer Lifetime Value:** $312.67
 - **Customer Retention Rate:** XX%
 
 #### 📊 **Customer Insights**
