@@ -17,6 +17,15 @@ This project performs comprehensive e-commerce sales performance analysis using 
 - **Business Performance**: Calculate key performance indicators and business metrics
 - **Data-Driven Insights**: Provide actionable recommendations for business improvement
 
+### 📊 *Dataset Information*
+
+*Source:* Kaggle E-Commerce Datasets (Public Domain) https://www.kaggle.com/search?q=E-Commerce+Sales+Performance+Analysis+in%3Adatasets
+- *Records:* 10,000+ transactions
+- *Time Period:* 12 months of sales data
+- *Geographic Coverage:* Southeast Asian markets
+- *Product Categories:* Electronics and tech accessories
+
+
 ### 📁 Project Structure
 
 ```
